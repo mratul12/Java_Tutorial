@@ -1,3 +1,5 @@
+package Chapter_2;
+
 public class Resulting_datatype {
     public static void main(String[] args) {
         byte x=5;

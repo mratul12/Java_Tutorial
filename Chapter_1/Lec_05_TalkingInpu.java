@@ -1,5 +1,6 @@
-import java.util.Scanner;
+package Chapter_1;
 
+import java.util.Scanner;
 public class Lec_05_TalkingInpu {
     @SuppressWarnings("resource")
     public static void main(String[] args) {

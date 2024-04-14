@@ -1,3 +1,5 @@
+package Chapter_2;
+
 public class Quiz_Increment_Decrement_Mult {
     public static void main(String[] args) {
         int y=7;

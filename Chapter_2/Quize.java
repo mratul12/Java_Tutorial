@@ -1,3 +1,5 @@
+package Chapter_2;
+
 public class Quize {
     public static void main(String[] args) {
         int x=6;
