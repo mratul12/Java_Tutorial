@@ -8,7 +8,7 @@ public class Q_3 {
         Scanner sc=new Scanner(System.in);
         float tax=0;
         float income=sc.nextFloat();
-        if(income<2.5){
+        if(income<2.5f){
             tax=tax+0;
         }
         else if(income>=2.5f && income<5.0f){
