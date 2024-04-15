@@ -1,5 +1,3 @@
-package Excersice;
-
 import java.util.Scanner;
 public class Excersice_1 {
     @SuppressWarnings("resource")
