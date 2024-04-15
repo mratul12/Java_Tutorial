@@ -1,7 +1,7 @@
 package Excersice;
 
 import java.util.Scanner;
-public class Excer {
+public class Excersice_1 {
     @SuppressWarnings("resource")
     public static void main(String[] args) {
         System.out.println("Enter the Student Marks");
