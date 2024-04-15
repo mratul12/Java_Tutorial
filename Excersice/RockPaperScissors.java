@@ -1,6 +1,7 @@
 import java.util.Scanner;
 import java.util.Random;
 public class RockPaperScissors {
+    @SuppressWarnings("resource")
     public static void main(String[] args) {
         System.out.println("It's My Turn");
         Scanner sc=new  Scanner(System.in);
