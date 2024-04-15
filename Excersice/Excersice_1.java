@@ -16,5 +16,6 @@ public class Excersice_1 {
         int Chemestry=sc.nextInt();
         float cgpa=(English+Computer+Math+Physics+Chemestry)/50f;
         System.out.println("There are total marks of CGPA: " +cgpa);
+        
     }
 }
